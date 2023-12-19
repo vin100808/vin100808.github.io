@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>In loving memory of Alvin.</p>
-    <p>2010/08/08 - 2019/05/16</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
