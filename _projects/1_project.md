@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Movie Recommendation System
+title: Movie Recommend System
 description: This project is a comprehensive exploration and implementation of an item-based collaborative filtering movie recommendation system.
 img: assets/img/thorRagnarok.jpeg
 importance: 1
