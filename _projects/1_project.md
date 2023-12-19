@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Movie Recommendation System
+description: This project is a comprehensive exploration and implementation of an item-based collaborative filtering movie recommendation system using Python and Pandas. It includes building a recommendation list from a user's rated movie history by analyzing movie correlations, enhancing the system with penalty-based adjustments for poorly rated movies, outlier removal for data refinement, and testing the system with a train/test split to gauge prediction accuracy.
 img: assets/img/thorRagnarok.jpeg
 importance: 1
 category: work
