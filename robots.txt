@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vin100808.github.io/sitemap.xml
+Sitemap: https://vin100808.github.io/Comprehensive-User-Browser-History-Analysis//sitemap.xml
