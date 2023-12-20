@@ -21,7 +21,9 @@ An experienced software developer with a strong foundation in programming, notab
 
 As a Software Engineer currently transitioning into the field of Data Science, I have a deep passion for `data` and its transformative power. This website is my digital canvas, where I'll be sharing insights from my journey towards becoming a Data Scientist. It will feature my projects, experiences, and the valuable lessons learned along the way. Join me as I explore the fascinating world of data science!
 
-"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill 
+"Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me." — Michael Scott
+
+<!-- "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill  -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
