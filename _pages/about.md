@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 An experienced software developer with a strong foundation in programming, notably in Python. Expertise extends to advanced data-mining, data preprocessing, and data analysis, further enriched by the application of machine learning techniques. This skill set is instrumental in tackling complex data challenges and deriving actionable insights, thereby contributing significantly to the success of various projects.
 
-As a Software Engineer currently transitioning into the field of Data Science, I have a deep passion for `data` and its transformative power. This website is my `digital canvas`, where I'll be sharing insights from my journey towards becoming a Data Scientist. It will feature my projects, experiences, and the valuable lessons learned along the way. Join me as I explore the fascinating world of data science!
+As a Software Engineer currently transitioning into the field of Data Science, I have a deep passion for `data` and its transformative power. This website is my digital canvas, where I'll be sharing insights from my journey towards becoming a Data Scientist. It will feature my projects, experiences, and the valuable lessons learned along the way. Join me as I explore the fascinating world of data science!
 
 "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill 
 
