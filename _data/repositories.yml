@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - vin100808
 
 github_repos:
+  - MovieRecommendSystem
+  - LondonBikeRides
+  - Comprehensive-User-Browser-History-Analysis
+  - RL-on-FrozenLake-OpenAIGym
   - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+
+
