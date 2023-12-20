@@ -2,45 +2,44 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Vincent Lin
     - name: Date of Birth
-      value: 14th March 1879
+      value: 3rd November 1998
     - name: Languages
-      value: English, German
+      value: English, Mandarin, Cantonese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BASc (Hons)
+      institution: University of Waterloo, Waterloo, Canada
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Cooperative & Adaptive Algorithms
+        - Systems Programming & Concurrency
+        - Real-Time Operating Systems
+        - Algoriths & Data Structures
+        - Probability Theory and Statistics
+    # - title: Federal teaching diploma
+    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    #   year: 1900
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Developer
+      institution: Lifetech Cardio
+      year: 01/2023 - 07/2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Developed the Intra-Aortic Balloon Pump (IABP) upper computer software functionalities, API ports using Flask and Cheroot libraries, and the corresponding fully automated testing processes utilizing the APIs.
+        - Preprocessed data modeling using Python, Openpyxl, including bit manipulation, missing data, and data reduction.
+        - Visualization of data and evaluation of IABP machine reliability and functionality using Tableau, Python and Excel.
+        - Implemented classification and regression techniques to verify arterial pressure responses according to IABP operating stages, reducing 15% of manual oversight.
+        - Optimized the communication module (IABP coded in Python) between the upper and lower computer, reducing the time per communication by an average of 20%.
+        - Reimplemented IABP upper computer source code and API ports in C++ to further optimized the communication module and resolved the waveform stuttering problem.
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
