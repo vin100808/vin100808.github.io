@@ -2,10 +2,10 @@ github_users:
   - vin100808
 
 github_repos:
-  - MovieRecommendSystem
-  - LondonBikeRides
-  - Comprehensive-User-Browser-History-Analysis
-  - RL-on-FrozenLake-OpenAIGym
+  - vin100808/MovieRecommendSystem
+  - vin100808/LondonBikeRides
+  - vin100808/Comprehensive-User-Browser-History-Analysis
+  - vin100808/RL-on-FrozenLake-OpenAIGym
   - alshedivat/al-folio
 
 
