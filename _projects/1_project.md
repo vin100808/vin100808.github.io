@@ -8,28 +8,9 @@ category: personal
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-This project is designated to:
-
-First, explore the corrwith method within Pandas to calculate the correlation between a particular movie rating and all other movie ratings of all users.
-
-Then, further explore the corrwith method with specific scoring method which calculates all correlations between every movie pairs. Proceed with removing the correlation that were based on a small amount of behavior information. Finally input a set of movie ratings by a test user, then review the top 10 recommended movies.
-
-Moreover, we will try 2 different methods to improve the system:
-
-Implement penalization to poorly rated movies and its recommendations.
-Examine the data and remove outliers.
-Lastly, we will test the system with train/test.
-
-## Part 1: Building an Item-Based Collaborative Filtering Recommendation List for Movie Star Wars
-
-We will start by loading up the MovieLens dataset. Note that we merge the two dataset so we could work with movie titles instead of ID's. However, in a production setting, the general practice is to work with movie IDs, and change to movie title at the display layer for efficiency purpose.
-
-``````
-
-
-
-
-
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
