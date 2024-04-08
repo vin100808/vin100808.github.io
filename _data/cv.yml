@@ -11,7 +11,16 @@
 - title: Education
   type: time_table
   contents:
-    - title: BASc (Hons)
+    - title: Master's Degree - Management Analytics
+      institution: Smith School of Business at Queen's University, Kingston, Canada
+      year: 2025
+      description:
+        - Analytical Decision Making
+        - Big Data Analytics
+        - Analytic Modelling
+        - Predictive Modelling
+        - Machine Learning & Artificial Intelligence
+    - title: BASc (Hons) - Computer Engineering
       institution: University of Waterloo, Waterloo, Canada
       year: 2023
       description:
