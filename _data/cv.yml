@@ -87,6 +87,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
+    - title: Data Science
     - title: Machine Learning
       # items: 
       #   - Description 1.
